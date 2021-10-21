@@ -14,10 +14,7 @@ import numpy as np
 import pandas_profiling
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
-import datetime
-from dateutil.relativedelta import relativedelta
-import matplotlib.pyplot as plt
-from matplotlib.ticker import MaxNLocator
+
 #import SessionState
 #%%
 #Designing the main page
