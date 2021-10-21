@@ -116,7 +116,7 @@ interactions:
 categorical_maximum_correlation_distinct: 100
 
 report:
-  precision: 2
+  precision: 5
 
 # Plot-specific settings
 plot:
